@@ -2,5 +2,5 @@ Rencana Project Ferdi
 - membuat landing page
   * menggunakan tailwind dan animasi
 - membuat daftar nama/data komunitas/gereja
-- fullstack developer
+* menggunakan Codeigniter & React.js
 - membuat website portfolio
