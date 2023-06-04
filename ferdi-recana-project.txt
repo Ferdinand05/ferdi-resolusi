@@ -1,0 +1,4 @@
+Rencana Project Ferdi
+- membuat landing page
+- membuat daftar nama/data komunitas/gereja
+- fullstack developer
